@@ -1,2 +1,5 @@
 # website
-Practicing with git in swc workshop Aug 2018
+
+This website was created on August 15, 2018 using RMarkdown.
+
+
